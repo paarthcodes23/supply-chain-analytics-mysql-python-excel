@@ -1,5 +1,19 @@
-data/
+
 venv/
 .env
 .ipynb_checkpoints/
 __pycache__/
+
+
+# Python virtual environment
+venv/
+
+# Secrets
+.env
+
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore other unnecessary files
+*.pyc
